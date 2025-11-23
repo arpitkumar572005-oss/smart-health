@@ -1,0 +1,9 @@
+{
+  "name": "smart health companion",
+  "description": "A smart health companion offering AI-powered chat, report analysis, medicine tracking, and emergency assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
